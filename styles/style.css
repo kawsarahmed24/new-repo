@@ -16,7 +16,7 @@ h1{
 
 ol li{
     font-weight: lighter;
-    color: tomato;
+    color:green;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -29,4 +29,9 @@ img{
     width: 40%;
     margin: 50px 20px;
     border-radius: 5px;
+}
+
+a{
+    color:seagreen;
+    text-decoration: none;
 }
