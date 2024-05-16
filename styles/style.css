@@ -19,3 +19,9 @@ ol li{
     color: tomato;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+select{
+    margin: 10px;
+    border: 2px solid green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
