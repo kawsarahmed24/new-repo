@@ -1,0 +1,12 @@
+input{
+    margin: 5px;
+    display: block;
+}
+input[type="submit"]{
+    border: 2px solid greenyellow;
+    border-radius: 5%;
+}
+h1{
+    color: darkolivegreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
