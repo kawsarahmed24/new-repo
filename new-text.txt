@@ -1,1 +1,2 @@
-demo text file 
+this is a demo project for practice git and github..
+It's a bit complicated, but yk it's fun!!
