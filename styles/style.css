@@ -4,9 +4,17 @@ input{
 }
 input[type="submit"]{
     border: 2px solid greenyellow;
-    border-radius: 5%;
+    background-color: green;
+    color: antiquewhite;
+    border-radius: 10%;
+    padding: 5px;
 }
 h1{
     color: darkolivegreen;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ol li{
+    font-weight: lighter;
+    color: tomato;
 }
